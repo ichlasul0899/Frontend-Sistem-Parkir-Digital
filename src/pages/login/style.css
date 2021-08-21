@@ -1,0 +1,11 @@
+.login {
+    width: 800px !important;
+}
+
+.nav-tabs {
+    max-width: 800px;
+}
+
+.nav-item {
+    padding: 0;
+}
